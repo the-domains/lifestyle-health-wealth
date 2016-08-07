@@ -1,0 +1,14 @@
+name: Lifestyle Health & Wealth
+layout_spectrum: 0.9642943628096181
+typography_spectrum: 0.8554119477087545
+color:
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.345803375420217
+  lightness: 0.9902978674702936
+  saturation: 0.04961156739154726
+  rhythmicContrast: 0.7319781079860181
