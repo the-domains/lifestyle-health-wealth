@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Lifestyle Health & Wealth]]></title>
         <description><![CDATA[Lifestyle Health & Wealth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lifestyle-health-wealth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 20:14:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Aug 2016 20:15:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lifestyle-health-wealth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[City Guide Spotlight: New York City]]></title>
             <description><![CDATA[<article><h1>City Guide Spotlight: New York City</h1><p>A few days ahead of NYC's hectic and inspiring Armory Week, Scope and Pulse Art Fairs, we embarked upon an overhaul of our NYC City Guide. While there were some stalwarts that needed to be added, New York City's ever-evolving nature means plenty of brand new spots made the list.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af7a9d273d9a3ad652d9db0e555c5988fb81d7ec.jpg"></article>]]></description>
             <link>http://www.coolhunting.com/travel/city-guide-nyc-2016-march</link>
             <guid isPermaLink="false">ada0aee9-9e2e-48d9-8bce-dfa93c7f9c2c</guid>
+            <pubDate>Sun, 07 Aug 2016 20:14:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Beautiful Speedometer for Bikes]]></title>
+            <description><![CDATA[<article><h1>A Beautiful Speedometer for Bikes</h1><p>Shout-out to designers who are also obsessed with cycling because their work frequently results in something new and clever, like the arresting Omata One. Mounted onto a bike, the speedometer's unique analog face informs of the four most relevant ride metrics (speed, distance, ascent and time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d105236023603a813c26d257fbe058ad72b3f663.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/omata-one-analog-gps-speedometer-cycling-kickstarter</link>
+            <guid isPermaLink="false">563907a1-5459-47ca-8192-626ad0c6c5da</guid>
             <pubDate>Sun, 07 Aug 2016 20:14:56 GMT</pubDate>
         </item>
     </channel>
